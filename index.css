@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar {}
+
+.help {
+
+    padding: 5px;
+}
+
+.img {
+    padding: 9px;
+    color: blue;
+}
+
+.card {
+    text-align: center;
+    color: solid darkblue;
+    margin: 35px;
+
+    background-image: url('https://balitourism.in/wp-content/uploads/india-to-bali-complete-guide-tour-packages-bali-tourism.jpg');
+}
+
+.st {
+    margin: 0px;
+    padding: 5PX;
+    word-spacing: 2px;
+    text-align: center;
+    margin-left: 10px;
+
+}
+
+.div {
+    border-style: none;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    width: 100px;
+    background-color: lightblue;
+    text-align: center;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.div1 {
+    border-style: none;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    width: 90px;
+    background-color: blue;
+    text-align: center;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.bar {
+    border-style: solid;
+    margin: -18px;
+    background-color: white;
+    border-color: white;
+    width: 670px;
+    height: 50px;
+    margin-left: 180px;
+    margin-right: 0px;
+    bottom: 190px;
+    align-content: center;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.main {
+    background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/02/Dark-Blue-Black-Background-For-Free-Download.jpg');
+    border-style: none;
+    width: 1000px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    background-size: cover;
+    box-shadow: none;
+    border-color: grey;
+    margin-right: -1000px;
+    margin-left: 100px;
+
+}
+
+.bar1 {
+    height: 90px;
+    border-color: white;
+    border-style: solid;
+    margin: 70px;
+    margin-right: 50px;
+    margin-left: -650px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    color: white;
+}
+
+.bar2 {
+    height: 100px;
+    border-color: white;
+    border-style: solid;
+    margin: 70px;
+    margin-right: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.text {
+    margin-left: 10px;
+    color: white;
+}
+
+.tet {
+    margin-left: 10px;
+}
+
+.tet1 {
+    margin-left: 10px;
+    text-align: center;
+    margin-right: 30px;
+}
+
+.tet3 {
+    margin-left: 10px;
+    text-align: center;
+    margin-right: 10px;
+    color: white;
+}
+
+.bar3 {
+    height: 110px;
+    border-color: white;
+    border-style: solid;
+    margin: 70px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    color: white;
+}
+
+.bar4 {
+    height: 80px;
+    border-color: white;
+    border-style: solid;
+    margin: 70px;
+    margin-left: 10px;
+    width: 80px;
+    align-items: center;
+    align-content: center;
+    background-color: white;
+    font-size: 50px;
+    margin-right: 10px;
+}
+
+.star {
+    margin: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+.font {
+    color: white;
+    font-size: 22px;
+}
+
+.kk {
+    margin-left: 150px;
+    font-size: 25px;
+    margin-right: 10px;
+    margin: 10px;
+
+
+}
+
+.vl {
+    border-left: 6px solid white;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-right: 0px;
+    margin-left: -188px;
+    bottom: -159px;
+}
+
+.kk1 {
+    margin-left: 13px;
+    font-size: 25px;
+    margin: 10px;
+    margin-right: 10px;
+
+
+}
+
+.v2 {
+    border-left: 6px solid white;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+
+    margin-left: -40px;
+    bottom: -159px;
+}
+
+.kk2 {
+    margin-left: 14px;
+    font-size: 25px;
+    margin: 10px;
+    margin-right: 20px;
+
+
+}
+
+.v3 {
+    border-left: 6px solid white;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-right: 0px;
+    margin-left: 123px;
+    bottom: -159px;
+}
+
+.kk3 {
+    margin-left: 3px;
+    margin: 10px;
+    font-size: 25px;
+
+
+}
+
+.container {
+    background-image: url('https://eightsummits.com/wp-content/uploads/2014/04/IMG_6544.jpg');
+    display: transparent;
+}
+
+.logo1 {
+    margin-left: 20px;
+    color: white;
+    margin-right: 10px;
+}
+
+.logo2 {
+    margin-left: 50px;
+    color: white;
+    margin-right: 10px;
+}
+
+.gra1 {
+    background: linear-gradient(to left, color green, skyblue);
+    -webkit-background-clip: text;
+    font-size: 28px;
+    font-family: Bree-Serif;
+    color: green;
+}
